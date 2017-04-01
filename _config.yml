@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Стартапы в Финляндии
 subtitle:
 description:
-author: John Doe
-language:
-timezone:
+author: finlandstartups.ru
+language: ru
+timezone: Europe/Helsinki
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://finlandstartups.ru
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,9 +63,16 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: apollo
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# Menu
+menu:
+  Главная: /
+  Архив: /archives/
+  GitHub: https://github.com/finlandstartups
+  Rss: /atom.xml
