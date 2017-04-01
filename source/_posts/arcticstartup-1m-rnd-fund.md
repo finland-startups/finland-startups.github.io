@@ -10,7 +10,7 @@ title: Финская медиа площадка ArcticStartup запускае
 Смотрите видео, в котором Дмитрий сам рассказывает о том, что побудила его на такой шаг.
 
 <iframe id="ytplayer" type="text/html" width="100%" height="360"
-  src="http://www.youtube.com/embed/jOYPh50q_5U?autoplay=0&origin=https://finlandstartups.ru/"
+  src="https://www.youtube.com/embed/jOYPh50q_5U?autoplay=0&origin=https://finlandstartups.ru/"
   frameborder="0"/></iframe>
 
 Принять участие в "инвестиционной лотерее" можно на [сайте фонда](https://www.rndfund.com/).
