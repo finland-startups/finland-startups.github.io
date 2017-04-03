@@ -72,7 +72,6 @@ deploy:
 
 # Menu
 menu:
-  Главная: /
   Архив: /archives/
   RSS: /atom.xml
   Twitter: https://twitter.com/startupsfinland
