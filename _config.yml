@@ -5,7 +5,7 @@
 # Site
 title: Стартапы в Финляндии
 subtitle:
-description:
+description: Русскоязычный блог о стартапах в Финляндии
 author: finlandstartups.ru
 language: ru
 timezone: Europe/Helsinki
@@ -76,3 +76,7 @@ menu:
   Архив: /archives/
   GitHub: https://github.com/finlandstartups
   Rss: /atom.xml
+
+# Analytics & tracking
+analytics:
+  ga: UA-96640285-1
