@@ -74,8 +74,7 @@ deploy:
 menu:
   Главная: /
   Архив: /archives/
-  GitHub: https://github.com/finlandstartups
-  Rss: /atom.xml
+  RSS: /atom.xml
   Twitter: https://twitter.com/startupsfinland
 
 # Analytics & tracking
