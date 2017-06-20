@@ -31,14 +31,9 @@ layout: false
   {% raw %}
   <script type="application/x-yaml" id="cms-yaml-config">
 backend:
-  name: netlify-api
-  url: http://localhost:8080
-# Make sure to change this for production
-production:
-  backend:
-    name: github-api
-    repo: finlandstartups/finlandstartups.ru
-    branch: master
+  name: github
+  repo: finlandstartups/finlandstartups.ru
+  branch: master
 media_folder: "source/assets/images" # Folder where user uploaded files should go
 public_folder: "source"
 collections: # A list of collections the CMS should be able to edit
